@@ -223,4 +223,4 @@ Standard user (no admin, no UAC)
 - **Vendor**: Overwolf Ltd
 - **Affected versions**: 0.304.0.11 (likely all versions with this service architecture)
 - **Discovery date**: 2026-07-02
-- **Status**: Unpatched
+- **Status**: Patched
